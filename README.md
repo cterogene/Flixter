@@ -4,7 +4,7 @@
 
 Submitted by: **Terogene Claudio**
 
-Time spent: **8** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Portrait_Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />  <img src='Landscap_Walkthrougn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Portrait_Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />                                       <img src='Landscap_Walkthrougn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with [Screen Recorder].
