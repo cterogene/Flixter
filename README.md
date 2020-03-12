@@ -18,7 +18,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Portrait_Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 GIF created with [Screen Recorder].
 
