@@ -25,7 +25,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+You have to be careful about errors and mistakes, by searching you will find where you cross out.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
@@ -36,7 +36,6 @@ Describe any challenges encountered while building the app.
 ## Flix Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
 
 #### REQUIRED (10pts)
 - [x] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
@@ -56,7 +55,7 @@ Describe any challenges encountered while building the app.
 <img src="Landscap_Walkthrougn.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+It was simple and cool!
 
 ### Open-source libraries used
 
