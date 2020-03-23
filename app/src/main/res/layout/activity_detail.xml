@@ -6,14 +6,21 @@
     android:layout_height="match_parent"
     tools:context=".DetailActivity"
     android:orientation="vertical"
+    android:background="#0d1b1e"
     >
+
+    <com.google.android.youtube.player.YouTubePlayerView
+        android:id="@+id/player"
+        android:layout_width="match_parent"
+        android:layout_height="250dp" />
 
     <TextView
         android:id="@+id/tvTitle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Sonic "
-        android:textSize="30sp" />
+        tools:text="Sonic "
+        android:textSize="30sp"
+        android:textColor="#d6eba8"/>
 
     <RatingBar
         android:id="@+id/ratingBar"
@@ -28,5 +35,6 @@
         android:id="@+id/tvOverview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Lorem ipsum isidor " />
+        android:text="Lorem ipsum isidor "
+        android:textColor="#d6eba8"/>
 </LinearLayout>

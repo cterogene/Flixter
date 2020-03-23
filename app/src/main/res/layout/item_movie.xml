@@ -4,7 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/container"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content">
+    android:layout_height="wrap_content"
+    android:background="#0d1b1e"
+    >
 
     <ImageView
         android:id="@+id/ivPoster"
@@ -24,7 +26,8 @@
         android:layout_marginStart="5dp"
         android:layout_toEndOf="@+id/ivPoster"
         android:textSize="24sp"
-        tools:text="Dragonheart: Vengeance" />
+        tools:text="Dragonheart: Vengeance"
+        android:textColor="#d6eba8"/>
 
     <TextView
         android:id="@+id/tvOverview"
@@ -34,6 +37,7 @@
         android:layout_marginStart="5dp"
         android:layout_marginTop="5dp"
         android:layout_toEndOf="@+id/ivPoster"
+        android:textColor="#d6eba8"
         tools:text="Lukas, a young farmer whose family is killed by savage raiders in the countryside, sets out on an epic quest for revenge, forming an unlikely trio with a majestic dragon and a swashbuckling, sword-fighting mercenary, Darius." />
 
 </RelativeLayout>
