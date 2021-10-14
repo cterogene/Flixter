@@ -12,25 +12,25 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 #### BONUS
 
-- [ ] Implement a shared element transition when user clicks into the details of a movie (1 point).
 - [ ] Trailers for popular movies are played automatically when the movie is selected (1 point).
-  - [] When clicking on a popular movie (i.e. a movie voted for more than 5 stars) the video should be played immediately.
+  - [ ] When clicking on a popular movie (i.e. a movie voted for more than 5 stars) the video should be played immediately.
   - [ ] Less popular videos rely on the detailed page should show an image preview that can initiate playing a YouTube video.
 - [ ] Add a play icon overlay to popular movies to indicate that the movie can be played (1 point).
-- [ ] Apply data binding for views to help remove boilerplate code. (1 point)
+- [ ] Apply the popular ButterKnife annotation library to reduce view boilerplate. (1 point)
 - [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
 
 ### App Walkthough GIF
 
-
-<img src="Flix-Part2-Walkthrough.gif" width=250><br>
+<img src="Video-Walkthrough.gif" width=250><br>
 
 ### Notes
 
-Very good app, with good concepts and strategies to build efficient app.
+You have to be careful about errors and mistakes, by searching you will find where you cross out.
+
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
+
 ---
 
 ## Flix Part 1
@@ -51,13 +51,11 @@ Very good app, with good concepts and strategies to build efficient app.
 
 ### App Walkthough GIF
 
-<img src="Flix-Portrait-Walkthrough.gif" width=250><br>
-
-<img src="Flix-Landscape-Walkthrough.gif" width=450><br>
-
+<img src="Portrait_Walkthrough.gif" width=250><br>
+<img src="Landscap_Walkthrougn.gif" width=250><br>
 
 ### Notes
-The app was so good when working on it, and it was kind of special.
+It was simple and cool!
 
 ### Open-source libraries used
 
