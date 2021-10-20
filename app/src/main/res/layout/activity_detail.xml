@@ -20,7 +20,11 @@
         android:layout_height="wrap_content"
         tools:text="Sonic "
         android:textSize="30sp"
-        android:textColor="#d6eba8"/>
+        android:textColor="#d6eba8"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"/>
+
+
 
     <RatingBar
         android:id="@+id/ratingBar"
@@ -32,9 +36,20 @@
         android:rating="8.5" />
 
     <TextView
+        android:id="@+id/popularity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2235"
+        android:textColor="#d6eba8"
+        android:textSize="18sp"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView
         android:id="@+id/tvOverview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Lorem ipsum isidor "
-        android:textColor="#d6eba8"/>
+        android:textColor="#d6eba8"
+        android:textSize="18sp"/>
 </LinearLayout>

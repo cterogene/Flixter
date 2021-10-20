@@ -16,6 +16,7 @@ public class Movie {
     String title;
     String Overview;
     double rating;
+    String popularity;
 
     //empty constructor needed by the Parceler library
     public Movie(){}
@@ -27,6 +28,7 @@ public class Movie {
         Overview   = jsonObject.getString("overview");
         rating = jsonObject.getDouble("vote_average");
         movieId = jsonObject.getInt("id");
+        popularity = jsonObject.getString("popularity");
 
     }
 
@@ -60,5 +62,9 @@ public class Movie {
 
     public int getMovieId() {
         return movieId;
+    }
+
+    public String getPopularity() {
+        return popularity;
     }
 }
