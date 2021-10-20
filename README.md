@@ -54,7 +54,7 @@ Describe any challenges encountered while building the app.
 
 <img src="Flix-Portrait-Walkthrough.gif" width=250><br>
 
-<img src="Flix-Landscape-Walkthrough.giff" width=450><br>
+<img src="Flix-Landscape-Walkthrough.gif" width=450><br>
 
 
 ### Notes
